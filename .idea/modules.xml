@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Collection/Collection.iml" filepath="$PROJECT_DIR$/Collection/Collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Enum/Enum.iml" filepath="$PROJECT_DIR$/Enum/Enum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception/Exception.iml" filepath="$PROJECT_DIR$/Exception/Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generic/Generic.iml" filepath="$PROJECT_DIR$/Generic/Generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Basic_Senior.iml" filepath="$PROJECT_DIR$/Java_Basic_Senior.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lambada/Lambada.iml" filepath="$PROJECT_DIR$/Lambada/Lambada.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProxyPattern/ProxyPattern.iml" filepath="$PROJECT_DIR$/ProxyPattern/ProxyPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamAPI/StreamAPI.iml" filepath="$PROJECT_DIR$/StreamAPI/StreamAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structure/Structure.iml" filepath="$PROJECT_DIR$/Structure/Structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.yi.file/com.yi.file.iml" filepath="$PROJECT_DIR$/com.yi.file/com.yi.file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.yi.heap/com.yi.heap.iml" filepath="$PROJECT_DIR$/com.yi.heap/com.yi.heap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.yi.leetcode_Hashmap/com.yi.leetcode_Hashmap.iml" filepath="$PROJECT_DIR$/com.yi.leetcode_Hashmap/com.yi.leetcode_Hashmap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.yi.leetcode_Hashmap/com.yi.leetcode_Stack.iml" filepath="$PROJECT_DIR$/com.yi.leetcode_Hashmap/com.yi.leetcode_Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.yi.leetcode_stack/com.yi.leetcode_stack.iml" filepath="$PROJECT_DIR$/com.yi.leetcode_stack/com.yi.leetcode_stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.yi.leetcode_two_pointers/com.yi.leetcode_two_pointers.iml" filepath="$PROJECT_DIR$/com.yi.leetcode_two_pointers/com.yi.leetcode_two_pointers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.yi.multithread/com.yi.multithread.iml" filepath="$PROJECT_DIR$/com.yi.multithread/com.yi.multithread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.yi.network/com.yi.network.iml" filepath="$PROJECT_DIR$/com.yi.network/com.yi.network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.yi.reflection/com.yi.reflection.iml" filepath="$PROJECT_DIR$/com.yi.reflection/com.yi.reflection.iml" />
+    </modules>
+  </component>
+</project>
