@@ -172,6 +172,41 @@ public class StringBasic {
     }
 
 
+    @Test
+    public void String2Int(){
+
+        String six = "6";
+        String six_2 = "6";
+
+        StringBuilder ssix = new StringBuilder("6");
+        int isix = 6;
+        String temp = "" + 6;
+
+
+        if(isix == Integer.parseInt(six)) //true
+            System.out.println("yes, true");
+
+        System.out.println(String.valueOf(isix) == six);
+
+        System.out.println(String.valueOf(isix) == ssix.toString());
+
+        System.out.println(String.valueOf(isix).equals(ssix.toString()));
+
+        System.out.println(six.equals(ssix.toString()));
+
+        System.out.println(six_2.equals(temp));
+
+
+//        System.out.println(six.compareTo(String.valueOf(isix)));
+//
+//        System.out.println(temp == six);
+//
+//        System.out.println(String.valueOf(isix) == six);
+
+
+    };
+
+
 
 
 
